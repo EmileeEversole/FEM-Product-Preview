@@ -192,6 +192,9 @@ h4 {
     .cart-button {
         padding-bottom: 2vh;
     }
+    .attribution {
+        font-size: 2vw;
+    }
 }
 .attribution {
     position: absolute;
