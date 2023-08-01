@@ -197,6 +197,7 @@ h4 {
     position: absolute;
     bottom: 2vh;
     text-align: center;
+    font-size: 1vw;
 }
 .attribution a {
     color: #E75480	;
